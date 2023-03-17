@@ -1,4 +1,4 @@
-# english-auction
+# English Auction
 
 This smart contract lets the deployer (seller) sell one NFT in an english auction style auction. The seller sets the NFT address and its id, with his desired starting price.
 
